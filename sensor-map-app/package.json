@@ -1,0 +1,16 @@
+{
+  "name": "sensor-map-app",
+  "version": "1.0.0",
+  "description": "A web application to display sensor data on a map using Node.js and Google Maps.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql": "^2.18.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
